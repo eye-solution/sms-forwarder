@@ -1,0 +1,7 @@
+{
+  "name": "SMS Forwarder",
+  "app_id": "vn.eye-solution.sms",
+  "typescript": true,
+  "v2": true,
+  "type": "ionic-angular"
+}
