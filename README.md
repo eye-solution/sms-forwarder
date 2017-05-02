@@ -28,7 +28,7 @@ npm install -g ionic
 
 - Clone project & install dependencies
 ```bash
-git clone https://github.com/eye-solution/sms
+git clone https://github.com/eye-solution/sms-forwarder
 cd sms
 npm install
 ```
