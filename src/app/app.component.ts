@@ -12,7 +12,7 @@ declare var SMS:any;
 })
 export class MyApp {
   rootPage:any = HomePage;
-  apiEndpoint:string = 'http://eyeteam.vn:3000/test';
+  apiEndpoint:string = 'http://192.168.1.101:3000/sms';
 
   constructor(public http: Http, platform: Platform, statusBar: StatusBar, splashScreen: SplashScreen) {
     let $http = this.http;
